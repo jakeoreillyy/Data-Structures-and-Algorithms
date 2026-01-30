@@ -1,5 +1,5 @@
 """
-Power_of_Two.py
+Power of Two
 Leetcode Problem: 231
 Difficulty: Easy
 Description: Returns either True or False dependent on if the number is a power of 2

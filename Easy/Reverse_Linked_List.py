@@ -1,5 +1,5 @@
 """
-Reverse_Linked_List.py
+Reverse Linked List
 LeetCode problem: 206
 Difficulty: Easy
 Description: Reverses a singly linked list. i.e. [1,2,3,4,5] becomes [5,4,3,2,1]

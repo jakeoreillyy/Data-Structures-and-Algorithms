@@ -1,5 +1,5 @@
 """
-Fizz_Buzz.py
+Fizz Buzz
 LeetCode problem: 412
 Difficulty: Easy
 Description: Returns a list of strings from 1 to n, replacing multiples of 3 with
