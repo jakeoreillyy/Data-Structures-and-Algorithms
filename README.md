@@ -1,4 +1,4 @@
-# Leetcode-Practice-DSA
+# Data-Structures-and-Algorithms
 
 My practice solutions for **LeetCode problems.**
 
