@@ -1,12 +1,32 @@
-# My LeetCode Solutions
-This project showcases my solutions to completed LeetCode problems, implemented in Python
+# Leetcode-Practice-DSA
 
-## Structure
-- **Easy/** → Folder containing all easy problems  
-- **Medium/** → Folder containing all medium problems  
-- **Hard/** → Folder containing all hard problems  
+My practice solutions for **LeetCode problems.**
 
-## Progress
-- **Easy:** ✅ 2 problems  
-- **Medium:** ❌ 0 problems  
-- **Hard:** ❌ 0 problems
+---
+
+## 🖼️ Overview
+
+This repository demonstrates my progress in **data structures, algorithms, and problem-solving skills.** Implemented in Python.
+
+---
+
+## 🧰 Built With
+
+* **Python 3** - used for algorithm implementation, problem-solving, and testing solutions.
+
+---
+
+## 📂 Structure
+
+```
+Leetcode-Practice-DSA/
+├── easy/
+│   └── ✅ 2 solved
+├── medium/
+│   └── ❌ 0 solved 
+└── hard/
+    └── ❌ 0 solved
+
+```
+
+---
