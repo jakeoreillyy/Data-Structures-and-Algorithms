@@ -22,7 +22,7 @@ class Solution(object):
         for _ in range(n):
             fast = fast.next
         if fast == None:
-            return None
+            return head.next
         while fast.next is not None:
             slow = slow.next
             fast = fast.next
