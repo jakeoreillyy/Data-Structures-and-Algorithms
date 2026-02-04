@@ -23,7 +23,7 @@ Leetcode-Practice-DSA/
 ├── easy/
 │   └── ✅ 8 solved
 ├── medium/
-│   └── ❌ 0 solved 
+│   └── ✅ 1 solved 
 └── hard/
     └── ❌ 0 solved
 
