@@ -1,6 +1,6 @@
 # Data-Structures-and-Algorithms
 
-My practice solutions for **LeetCode problems.**
+My practice solutions for **LeetCode/Neetcode problems.**
 
 ---
 
@@ -12,7 +12,7 @@ This repository demonstrates my progress in **data structures, algorithms, and p
 
 ## 🧰 Built With
 
-* **Python 3** - used for algorithm implementation, problem-solving, and testing solutions.
+* **Python** - used for algorithm implementation, problem-solving, and testing solutions.
 
 ---
 
@@ -21,7 +21,7 @@ This repository demonstrates my progress in **data structures, algorithms, and p
 ```
 Leetcode-Practice-DSA/
 ├── easy/
-│   └── ✅ 2 solved
+│   └── ✅ 8 solved
 ├── medium/
 │   └── ❌ 0 solved 
 └── hard/
