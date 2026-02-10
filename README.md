@@ -19,11 +19,11 @@ This repository demonstrates my progress in **data structures, algorithms, and p
 ## 📂 Structure
 
 ```
-Leetcode-Practice-DSA/
+Data-Structures-and-Algorithms/
 ├── easy/
-│   └── ✅ 8 solved
+│   └── ✅ 9 solved
 ├── medium/
-│   └── ✅ 1 solved 
+│   └── ✅ 4 solved 
 └── hard/
     └── ❌ 0 solved
 
