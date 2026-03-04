@@ -18,14 +18,15 @@ class Solution(object):
         result = []
 
         while i >= 0 or j >= 0 or carry:
+            a = 0
+            b = 0
+
             if i >= 0:
+                # alternative: a = ord(num1[i]) - ord('0')
                 a = int(num1[i])
-            else:
-                a = 0
             if j >= 0:
+                # alternative: b = ord(num2[j]) - ord('0')git  
                 b = int(num2[j])
-            else:
-                b = 0   
             
             i -= 1
             j -= 1
