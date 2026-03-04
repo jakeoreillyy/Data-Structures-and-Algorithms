@@ -7,7 +7,4 @@ Description: Determine whether an integer is a palindrome. An integer is a palin
 
 class Solution(object):
     def isPalindrome(self, x):
-        if str(x) == str(x)[::-1]:
-            return True
-        return False 
-        
+        return str(x) == str(x)[::-1]
