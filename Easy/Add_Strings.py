@@ -25,7 +25,7 @@ class Solution(object):
                 # alternative: a = ord(num1[i]) - ord('0')
                 a = int(num1[i])
             if j >= 0:
-                # alternative: b = ord(num2[j]) - ord('0')git  
+                # alternative: b = ord(num2[j]) - ord('0')
                 b = int(num2[j])
             
             i -= 1
