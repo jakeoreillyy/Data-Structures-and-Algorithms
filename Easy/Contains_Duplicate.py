@@ -11,14 +11,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        table = {}
+        table = set()
 
         for num in nums:
-            table[num] = table.get(num, 0) + 1
-
-        for num, count in table.items():
-            if count > 1:
+            if num in table:
                 return True
-
+            table.add(num)
         return False
-
