@@ -21,7 +21,7 @@ This repository demonstrates my progress in **data structures, algorithms, and p
 ```
 Data-Structures-and-Algorithms/
 ├── easy/
-│   └── ✅ 15 solved
+│   └── ✅ 17 solved
 ├── medium/
 │   └── ✅ 7 solved 
 └── hard/
