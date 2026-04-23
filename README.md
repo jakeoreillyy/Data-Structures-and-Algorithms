@@ -12,7 +12,7 @@ This repository demonstrates my progress in **data structures, algorithms, and p
 
 ## 🧰 Built With
 
-* **Python** - used for algorithm implementation, problem-solving, and testing solutions.
+- **Python** - used for algorithm implementation, problem-solving, and testing solutions.
 
 ---
 
@@ -20,13 +20,15 @@ This repository demonstrates my progress in **data structures, algorithms, and p
 
 ```
 Data-Structures-and-Algorithms/
-├── easy/
-│   └── ✅ 17 solved
-├── medium/
-│   └── ✅ 7 solved 
-└── hard/
-    └── ❌ 0 solved
+├── Leetcode/
+│   ├── Easy/
+│   │   └── ✅ 17 solved
+│   ├── Medium/
+│   │   └── ✅ 8 solved
+│   └── Hard/
+│       └── ❌ 0 solved
+└── Neetcode/
+    └── Blind_75/
+        └── ✅ 1 solved
 
 ```
-
----
