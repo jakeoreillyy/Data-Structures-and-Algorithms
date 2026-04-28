@@ -33,6 +33,6 @@ Data-Structures-and-Algorithms/
 │       └── ❌ 0 solved
 └── Neetcode/
     └── Blind_75/
-        └── ✅ 1 solved
+        └── ✅ 5 solved
 
 ```
