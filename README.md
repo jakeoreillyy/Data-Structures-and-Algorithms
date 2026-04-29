@@ -4,7 +4,7 @@
 
 # Data-Structures-and-Algorithms
 
-My practice solutions for **LeetCode/Neetcode problems.**
+My practice solutions for **LeetCode/Neetcode** problems.
 
 ---
 
