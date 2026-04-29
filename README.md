@@ -4,19 +4,13 @@
 
 # Data-Structures-and-Algorithms
 
-My practice solutions for **LeetCode/Neetcode** problems.
+Python solutions for **LeetCode and Neetcode** problems.
 
 ---
 
-## 🖼️ Overview
+## 🖼️ Topics Covered
 
-This repository demonstrates my progress in **data structures, algorithms, and problem-solving skills.** Implemented in Python.
-
----
-
-## 🧰 Built With
-
-- **Python** - used for algorithm implementation, problem-solving, and testing solutions.
+Strings · Hash Maps · Arrays ·
 
 ---
 
@@ -33,6 +27,6 @@ Data-Structures-and-Algorithms/
 │       └── ❌ 0 solved
 └── Neetcode/
     └── Blind_75/
-        └── ✅ 5 solved
+        └── ✅ 6 solved
 
 ```

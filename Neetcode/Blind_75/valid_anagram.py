@@ -1,7 +1,20 @@
 """
 Valid Anagram
 Difficulty: Easy
-Given two strings s and t, return true if t is an anagram of s, and false otherwise. e.g. "anagram" and "nagaram" are anagrams, while "rat" and "car" are not.
+
+Description:
+    Given two strings s and t, return true if t is an anagram of s, and
+    false otherwise. An anagram uses all original letters exactly once.
+
+Args:
+    s (str): The source string.
+    t (str): The string to check against s.
+
+Returns:
+    bool: True if t is an anagram of s, False otherwise.
+
+Time Complexity:  O(n)
+Space Complexity: O(n)
 """
 
 

@@ -1,7 +1,20 @@
 """
 Group Anagrams
 Difficulty: Medium
-Description: Given an array of strings strs, group the anagrams together. You can return the answer in any order. An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. e.g. Given strs = ["eat","tea","tan","ate","nat","bat"], return [["bat"],["nat","tan"],["ate","eat","tea"]].
+
+Description:
+    Given an array of strings strs, group the anagrams together. An anagram
+    is a word formed by rearranging all letters of another word. The answer
+    may be returned in any order.
+
+Args:
+    strs (List[str]): Array of strings to group.
+
+Returns:
+    List[List[str]]: Groups of strings where each group contains anagrams of each other.
+
+Time Complexity:  O(n * m) — n strings each of max length m
+Space Complexity: O(n * m)
 """
 
 

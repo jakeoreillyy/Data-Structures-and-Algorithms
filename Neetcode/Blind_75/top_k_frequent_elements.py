@@ -1,8 +1,22 @@
 """
 Top K Frequent Elements
 Difficulty: Medium
-Description: Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order. i.e. Given nums = [1,1,1,2,2,3] and k = 2, the output should be [1,2] because the value 1 appears three times and the value 2 appears twice in the array.
+
+Description:
+    Given an integer array nums and an integer k, return the k most frequent
+    elements. The answer may be returned in any order.
+
+Args:
+    nums (List[int]): Array of integers.
+    k (int): Number of top frequent elements to return.
+
+Returns:
+    List[int]: The k most frequent elements.
+
+Time Complexity:  O(n)
+Space Complexity: O(n)
 """
+
 
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
@@ -15,7 +29,7 @@ class Solution:
             bucket[freq].append(num)
 
         result = []
-        for i in range(len(bucket) - 1, 0,-1):
+        for i in range(len(bucket) - 1, 0, -1):
             result.extend(bucket[i])
             if len(result) >= k:
                 return result[:k]

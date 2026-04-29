@@ -1,7 +1,20 @@
 """
 Two Sum
 Difficulty: Easy
-Description: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. e.g. Given nums = [2,7,11,15], target = 9, return [0,1] because nums[0] + nums[1] == 9.
+
+Description:
+    Given an array of integers nums and an integer target, return indices of
+    the two numbers such that they add up to target.
+
+Args:
+    nums (List[int]): Array of integers.
+    target (int): Target sum to find.
+
+Returns:
+    List[int]: Indices of the two numbers that add up to target.
+
+Time Complexity:  O(n)
+Space Complexity: O(n)
 """
 
 
