@@ -14,7 +14,7 @@ Returns:
     bool: True if t is an anagram of s, False otherwise.
 
 Time Complexity:  O(n)
-Space Complexity: O(n)
+Space Complexity: O(1)
 """
 
 

@@ -14,7 +14,7 @@ Returns:
     List[int]: Array where each element is the product of all elements in nums except the corresponding element.
 
 Time Complexity:  O(n)
-Space Complexity: O(n)
+Space Complexity: O(1)
 """
 
 
