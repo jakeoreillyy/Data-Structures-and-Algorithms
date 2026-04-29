@@ -13,8 +13,8 @@ encode Returns: str: A single encoded string representing the list.
 decode Args:    s (str): Encoded string produced by encode().
 decode Returns: List[str]: The original list of strings.
 
-Time Complexity:  O(n * m) — n strings each of max length m
-Space Complexity: O(n * m)
+Time Complexity:  O(n)
+Space Complexity: O(n)
 """
 
 

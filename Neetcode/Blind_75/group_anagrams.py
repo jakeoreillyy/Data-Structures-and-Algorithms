@@ -13,8 +13,8 @@ Args:
 Returns:
     List[List[str]]: Groups of strings where each group contains anagrams of each other.
 
-Time Complexity:  O(n * m) — n strings each of max length m
-Space Complexity: O(n * m)
+Time Complexity:  O(n · k)
+Space Complexity: O(n · k)
 """
 
 
