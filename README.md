@@ -1,32 +1,40 @@
-[![**LeetCode**](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Jeiri/)
+# Data Structures & Algorithms
+
+Python solutions to LeetCode and NeetCode problems, worked through as part of ongoing technical preparation. Solutions are organised by source and difficulty, and each file is documented with the problem statement, an example, and its time and space complexity.
 
 ---
 
-# Data-Structures-and-Algorithms
+## Topics Covered
 
-Python solutions for **LeetCode and Neetcode** problems.
-
----
-
-## 🖼️ Topics Covered
-
-Strings · Hash Maps · Arrays ·
+Arrays & Hashing · Strings · Linked Lists · Two Pointers · Sliding Window & Prefix Sums · Matrix · Bit Manipulation · Math
 
 ---
 
-## 📂 Structure
+## Progress
+
+| Set | Solved |
+|---|---|
+| LeetCode — Easy | 17 |
+| LeetCode — Medium | 8 |
+| LeetCode — Hard | 0 |
+| NeetCode — Blind 75 | 8 |
+
+---
+
+## Structure
 
 ```
-Data-Structures-and-Algorithms/
+.
 ├── Leetcode/
 │   ├── Easy/
-│   │   └── ✅ 17 solved
 │   ├── Medium/
-│   │   └── ✅ 8 solved
 │   └── Hard/
-│       └── ❌ 0 solved
 └── Neetcode/
     └── Blind_75/
-        └── ✅ 8 solved
-
 ```
+
+---
+
+## Conventions
+
+Each file is named after its problem in `snake_case` and opens with a docstring covering the problem, its difficulty, and a worked example. Solutions favour clear, conventional Python and an explicit Big-O analysis over the shortest possible code.
