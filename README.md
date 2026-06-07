@@ -1,12 +1,6 @@
 # Data Structures & Algorithms
 
-Python solutions to LeetCode and NeetCode problems, worked through as part of ongoing technical preparation. Solutions are organised by source and difficulty, and each file is documented with the problem statement, an example, and its time and space complexity.
-
----
-
-## Topics Covered
-
-Arrays & Hashing · Strings · Linked Lists · Two Pointers · Sliding Window & Prefix Sums · Matrix · Bit Manipulation · Math
+Python solutions to LeetCode/NeetCode problems, worked through as part of ongoing technical preparation. Solutions are organised by pattern difficulty, and each file is documented with the problem statement, an example, and its time and space complexity.
 
 ---
 
@@ -14,10 +8,8 @@ Arrays & Hashing · Strings · Linked Lists · Two Pointers · Sliding Window & 
 
 | Set | Solved |
 |---|---|
-| LeetCode — Easy | 17 |
-| LeetCode — Medium | 8 |
-| LeetCode — Hard | 0 |
-| NeetCode — Blind 75 | 8 |
+| 01-arrays-hashing | 1 |
+| **Total** | **1** |
 
 ---
 
@@ -25,12 +17,7 @@ Arrays & Hashing · Strings · Linked Lists · Two Pointers · Sliding Window & 
 
 ```
 .
-├── Leetcode/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
-└── Neetcode/
-    └── Blind_75/
+└── 01-arrays-hashing/
 ```
 
 ---
