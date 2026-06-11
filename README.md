@@ -8,8 +8,8 @@ Python solutions to LeetCode/NeetCode problems, worked through as part of ongoin
 
 | Set | Solved |
 |---|---|
-| 01-arrays-hashing | 4 |
-| **Total** | **4** |
+| 01-arrays-hashing | 6 |
+| **Total** | **6** |
 
 ---
 
