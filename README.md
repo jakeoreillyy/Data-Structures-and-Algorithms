@@ -9,7 +9,7 @@ Python solutions to LeetCode/NeetCode problems, worked through as part of ongoin
 | Set | Solved |
 |---|---|
 | 01-arrays-hashing | 6 |
-| 01-two-pointers | 1 |
+| 02-two-pointers | 1 |
 | **Total** | **7** |
 
 ---
@@ -19,7 +19,7 @@ Python solutions to LeetCode/NeetCode problems, worked through as part of ongoin
 ```
 .
 ├── 01-arrays-hashing/
-└── 01-two-pointers/
+└── 02-two-pointers/
 ```
 
 ---
