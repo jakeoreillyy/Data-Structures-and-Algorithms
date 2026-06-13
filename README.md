@@ -6,11 +6,11 @@ Python solutions to LeetCode/NeetCode problems, worked through as part of ongoin
 
 ## Progress
 
-| Set | Solved |
-|---|---|
-| 01-arrays-hashing | 6 |
-| 02-two-pointers | 1 |
-| **Total** | **7** |
+| Set               | Solved |
+| ----------------- | ------ |
+| 01-arrays-hashing | 8      |
+| 02-two-pointers   | 1      |
+| **Total**         | **9**  |
 
 ---
 
