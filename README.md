@@ -10,8 +10,8 @@ Python solutions to LeetCode/NeetCode problems, worked through as part of ongoin
 | ----------------- | ------ |
 | 01-arrays-hashing | 8      |
 | 02-two-pointers   | 4      |
-| 03-sliding-window | 0      |
-| **Total**         | **12** |
+| 03-sliding-window | 1      |
+| **Total**         | **13** |
 
 ---
 
