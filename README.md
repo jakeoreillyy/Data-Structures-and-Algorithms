@@ -10,7 +10,7 @@ Python solutions to LeetCode/NeetCode problems, worked through as part of ongoin
 | ----------------- | ------ |
 | 01-arrays-hashing | 8      |
 | 02-two-pointers   | 4      |
-| 03-sliding-window | 1      |
+| 03-sliding-window | 2      |
 | **Total**         | **13** |
 
 ---
