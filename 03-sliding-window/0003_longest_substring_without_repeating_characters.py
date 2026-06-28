@@ -18,6 +18,7 @@ Idea:
     Calculate max vs current.
 """
 
+
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         seen = set()
