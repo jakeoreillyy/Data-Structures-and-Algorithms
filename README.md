@@ -12,7 +12,8 @@ Python solutions to LeetCode/NeetCode problems, worked through as part of ongoin
 | 02-two-pointers   | 4      |
 | 03-sliding-window | 3      |
 | 04-stack          | 3      |
-| **Total**         | **17** |
+| 05-binary-search  | 1      |
+| **Total**         | **19** |
 
 ---
 
@@ -23,7 +24,8 @@ Python solutions to LeetCode/NeetCode problems, worked through as part of ongoin
 ├── 01-arrays-hashing/
 ├── 02-two-pointers/
 ├── 03-sliding-window/
-└── 04-stack/
+├── 04-stack/
+└── 05-binary-search/
 ```
 
 ---
