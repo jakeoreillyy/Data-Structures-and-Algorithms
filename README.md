@@ -13,8 +13,8 @@ Python solutions to LeetCode/NeetCode problems, worked through as part of ongoin
 | 03-sliding-window | 3      |
 | 04-stack          | 3      |
 | 05-binary-search  | 3      |
-| 06-linked-list    | 0      |
-| **Total**         | **21** |
+| 06-linked-list    | 4      |
+| **Total**         | **25** |
 
 ---
 
