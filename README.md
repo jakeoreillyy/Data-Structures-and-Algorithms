@@ -15,6 +15,7 @@ Python solutions to LeetCode/NeetCode problems, worked through as part of ongoin
 | 05-binary-search  | 3      |
 | 06-linked-list    | 6      |
 | 07-trees          | 0      |
+| 11-math-geometry  | 0      |
 | **Total**         | **27** |
 
 ---
@@ -29,7 +30,8 @@ Python solutions to LeetCode/NeetCode problems, worked through as part of ongoin
 ├── 04-stack/
 ├── 05-binary-search/
 ├── 06-linked-list/
-└── 07-trees/
+├── 07-trees/
+└── 11-math-geometry/
 ```
 
 ---
